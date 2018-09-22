@@ -90,7 +90,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
 
-            android:backgroundTint="@color/colorPrimary"
+            android:backgroundTint="@color/pink"
 
             android:src="@mipmap/user"
             android:theme="@style/NavigatorButton" />
